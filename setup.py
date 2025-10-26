@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="django-query-string-parser",
-    version="0.1.0",
+    version="0.1.1",
     author="Sepehr Mohseni",
     author_email="isepehrmohseni@gmail.com",
     description="A flexible query parser that converts query strings into Django Q objects",

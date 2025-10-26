@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "django-query-string-parser"
-version = "0.1.0"
-description = "A flexible query parser that converts query strings into Django Q objects"
+version = "0.1.1"
+description = "A powerful Django query string parser that converts URL query parameters into Django ORM filters"
 readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "MIT"}
